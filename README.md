@@ -6,10 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: [Savier Acosta]
+* Ocupación: [Estudiante de Ingeniería en Computación]
+* Lugar de residencia: [Ecuador]
+* Sitio web: [n/a]
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
