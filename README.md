@@ -6,11 +6,14 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Savier Acosta]
-* Ocupación: [Estudiante de Ingeniería en Computación]
-* Lugar de residencia: [Ecuador]
-* Sitio web: [n/a]
+* Nombre: Savier Acosta
+* Ocupación: Estudiante de Ingeniería en Computación
+* Lugar de residencia: Ecuador
+* Sitio web: n/a
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Inteligencia Artificial
+* Ciberseguridad
+* Deportes
+* Videojuegos
