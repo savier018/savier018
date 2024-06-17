@@ -7,11 +7,16 @@ mis proyectos y mis intereses :D
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Herramientas y lenguajes](#herramientas-y-lenguajes)
 ## Información personal
-* Nombre: Savier Acosta
-* Ocupación: Estudiante de Ingeniería en Computación
-* Lugar de residencia: Ecuador
-* Usuario de Discord: savier_018
+* **Nombre:** Savier Acosta
+* **Ocupación:** Estudiante de Ingeniería en Computación
+* **Lugar de residencia:** Ecuador
+* **Usuario de Discord:** savier_018
+## Herramientas y lenguajes
+* **Lenguajes de programación:** Python, Java, C, Assembly x86, JavaScript
+* **Lenguajes de consultas:** MySQL
+* **Herramientas:** Git, GitHub, Linux, Figma, Visual Studio Code
 ## Proyectos
 * [Curriculum Vitae usando HTML y CSS](https://savier018.github.io/curriculum/)
 * [Landing page usando JavaScript, HTML, CSS y Bootstrap](https://savier018.github.io/landing-page/)
