@@ -1,6 +1,7 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses :D
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí,  
+mis proyectos y mis intereses :D  
+
 ![8bitgif](https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif)
 ## Contenido
 * [Información personal](#información-personal)
@@ -17,6 +18,7 @@ proyectos y mis intereses :D
 * [Estructura de datos: Aplicación de diccionario](https://github.com/savier018/aplicacionDiccionario)
 ## Intereses
 * Inteligencia Artificial
-* Ciberseguridad
+* Ingeniería de Software
+* Data Science
 * Deportes
 * Videojuegos
