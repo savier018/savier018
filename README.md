@@ -1,6 +1,7 @@
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+proyectos y mis intereses :D
+![8bitgif](https://i.pinimg.com/originals/02/f5/1c/02f51c4a09c743de64df5236ee19340e.gif)
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
@@ -9,9 +10,11 @@ proyectos y mis intereses.
 * Nombre: Savier Acosta
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Ecuador
-* Sitio web: n/a
+* Usuario de Discord: savier_018
 ## Proyectos
-* [Lista de tus proyectos]
+* [Curriculum Vitae usando HTML y CSS](https://savier018.github.io/curriculum/)
+* [Landing page usando JavaScript, HTML, CSS y Bootstrap](https://savier018.github.io/landing-page/)
+* [Estructura de datos: Aplicación de diccionario](https://github.com/savier018/aplicacionDiccionario)
 ## Intereses
 * Inteligencia Artificial
 * Ciberseguridad
